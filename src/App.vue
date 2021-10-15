@@ -1,5 +1,6 @@
 <template>
   <h1> Salut les coupains </h1>
+  <h2>Bande de OUNDE</h2>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
